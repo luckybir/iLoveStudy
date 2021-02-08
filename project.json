@@ -1,0 +1,19 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "7B790479-140",
+    "build_number": 140,
+    "build_time": 1605862237764
+  },
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "launchConfig": {
+    "hideLogs": false
+  },
+  "main": "main.js",
+  "name": "好好学习",
+  "packageName": "com.goodstudy123",
+  "scripts": {},
+  "versionCode": 15,
+  "versionName": "2.8.Mod"
+}
